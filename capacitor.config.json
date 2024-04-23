@@ -1,0 +1,25 @@
+{
+  "appId": "com.example.app",
+  "appName": "Clore Wallet",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "out",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  },
+  "cordova": {},
+  "server": {
+    "androidScheme": "https"
+  },
+  "android": {
+    "icon": "path/to/android/icon.png"
+  },
+  "ios": {
+    "icon": "path/to/ios/icon.png"
+  },
+  "mac": {
+    "icon": "path/to/mac/icon.png"
+  }
+}
